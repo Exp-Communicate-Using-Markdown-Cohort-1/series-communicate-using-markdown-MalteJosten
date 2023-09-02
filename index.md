@@ -9,3 +9,7 @@ public class Main {
   }
 }
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolie
+- [ ] Introduce myself to the world
